@@ -1,4 +1,3 @@
----
 
 ## 📌 Task: Structuring Customer Reviews with Generative AI  
 
