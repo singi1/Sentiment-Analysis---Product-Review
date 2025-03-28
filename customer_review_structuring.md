@@ -49,4 +49,3 @@ Your AI prompt should produce an output like this:
 
 ---  
 
-Would you like any modifications to this format before you publish it?
