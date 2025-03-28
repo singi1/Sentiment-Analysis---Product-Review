@@ -1,5 +1,3 @@
-Here's your assignment reformatted as a task for a GitHub public page:  
-
 ---
 
 ## 📌 Task: Structuring Customer Reviews with Generative AI  
